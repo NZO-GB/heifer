@@ -6,6 +6,7 @@
   "scripts": {
     "start": "node main.js"
   },
+  "type": "module",
   "author": "NZO-GB",
   "license": "ISC",
   "devDependencies": {

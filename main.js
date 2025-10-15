@@ -1,4 +1,6 @@
-import { moo } from "moo.js";
+import {moo} from "./moo.js";
+
+const name = "Enzo";
 
 console.log(moo(name));
 
